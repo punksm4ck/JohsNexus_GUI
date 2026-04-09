@@ -1,3 +1,4 @@
+"© 2026 Punksm4ck. All rights reserved."
 #!/usr/bin/env python3
 """
 jobnexus_patch_geo.py  —  Enterprise geolocation patcher for jobnexus_enterprise.html

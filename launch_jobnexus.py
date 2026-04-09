@@ -1,3 +1,4 @@
+"© 2026 Punksm4ck. All rights reserved."
 import os
 import subprocess
 import time

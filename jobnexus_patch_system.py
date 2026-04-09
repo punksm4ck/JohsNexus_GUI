@@ -1,3 +1,4 @@
+"© 2026 Punksm4ck. All rights reserved."
 import pathlib
 html_path = pathlib.Path('./jobnexus.html')
 html = html_path.read_text()
