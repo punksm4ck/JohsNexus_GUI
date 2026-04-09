@@ -1,5 +1,6 @@
 "© 2026 Punksm4ck. All rights reserved."
 "© 2026 Punksm4ck. All rights reserved."
+"© 2026 Punksm4ck. All rights reserved."
 import asyncio
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
