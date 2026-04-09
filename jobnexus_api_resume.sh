@@ -1,4 +1,5 @@
 "© 2026 Punksm4ck. All rights reserved."
+"© 2026 Punksm4ck. All rights reserved."
 set -euo pipefail
 
 RED='\033[0;31m'; GRN='\033[0;32m'; YLW='\033[1;33m'
