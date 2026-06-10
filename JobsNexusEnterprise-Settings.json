@@ -1,0 +1,35 @@
+{
+  "exported": "2026-04-07T19:48:00.142Z",
+  "version": "3.0",
+  "savedJobs": [],
+  "trackerApps": {},
+  "jobNotes": {},
+  "settings": {
+    "name": "Thomas Sannasardo",
+    "email": "tsannasardo@gmail.com",
+    "phone": "805-416-4461",
+    "location": "Simi Valley, CA",
+    "linkedin": "https://www.linkedin.com/in/tsannasardo/",
+    "portfolio": "https://github.com/punksm4ck/",
+    "resume": "Customer Service Professional with over 20 years of experience resolving complex client inquiries and ensuring satisfaction across phone, email, and chat platforms. Pairing this extensive client-facing background with robust technical expertise in Python, Bash, PowerShell, and GUI development to automate workflows and optimize systems. Seeking a role that bridges the gap between high-level customer support and technical engineering to deliver enterprise-grade solutions.",
+    "tone": "Professional and concise",
+    "length": "Standard (250–300 words)",
+    "model": "llama-3.3-70b-versatile",
+    "indeedId": "0000000000000000",
+    "adzunaId": "a2a7eba2",
+    "usajobsKey": "rpygAd8QU/hH7AjVf9mNjFW06gETtj7YzzWzelLRpSY=",
+    "usajobsEmail": "tsannasardo@gmail.com",
+    "yoe": "10+ years",
+    "targetSal": "60",
+    "defLoc": "Simi Valley, CA",
+    "defArr": "",
+    "defType": "",
+    "alerts": "",
+    "skills": [],
+    "savedAt": "2026-04-07T19:47:49.793Z"
+  },
+  "metrics": {
+    "applied": 0,
+    "saved": 0
+  }
+}
